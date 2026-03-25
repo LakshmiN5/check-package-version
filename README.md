@@ -19,7 +19,7 @@ A bash script to check Python package versions across multiple environment types
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/check-package-version.git
+git clone https://github.com/LakshmiN5/check-package-version.git
 cd check-package-version
 ```
 
